@@ -1,0 +1,16 @@
+{
+  "ids": {
+    "UserCredentials": 11
+  },
+  "models": {
+    "UserCredentials": {
+      "string": "{\"username\":\"string\",\"password\":\"$2a$10$jNliK/Wg5K0mhykhoODdfOlDUXLZNfgP/Chw2zmxzEJ2eA/QaBrhq\",\"userId\":1}",
+      "string2": "{\"username\":\"string2\",\"password\":\"$2a$10$4rjjf00/exeeB9B8o0ntl.VH3fuSkHjgcY9dv2/iC25dX3cEkMkQy\",\"userId\":2}",
+      "string22": "{\"username\":\"string22\",\"password\":\"$2a$10$jpkXaH0jrbXu1KKPbOWv2uDLUhOlxZ2DNRGUyTrJyqtWJPOKWOjAO\",\"userId\":4}",
+      "string223": "{\"username\":\"string223\",\"password\":\"$2a$10$NRUN2JnTKr9t80Wn.KGqGeAD3dyiPUTjcO5S4Vqgb13II4KFkcWre\",\"userId\":6}",
+      "string2233": "{\"username\":\"string2233\",\"password\":\"$2a$10$bUeA29F1Fhji.UxPMrfFCu.AMWeTXiwepXjDlKlUZnuCeQZflPQyS\",\"userId\":8}",
+      "stringgg": "{\"username\":\"stringgg\",\"password\":\"$2a$10$eXAO/NEjFJ9cOIgtEPOEhepDcPhKthWQC.l2Yr83ky8ruF8BcfJpy\",\"userId\":1}",
+      "stringggg": "{\"username\":\"stringggg\",\"password\":\"$2a$10$khKMq/NF7aZOB6HF0TBX3.D1KbSi8ZqXyA6FDUsytkRGQNtxLyDEW\",\"userId\":2}"
+    }
+  }
+}
